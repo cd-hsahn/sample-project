@@ -22,7 +22,7 @@ gulp dev
 
 ## Rule
 각 html은 한개의 css만을 import 하여 사용합니다(dist/app.css로 설정한상태)
-경우에 따라 바꿔서 사용할수 
+경우에 따라 바꿔서 사용할 수 있음
 
 ## Tip
 VS Code의 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 를 함께 사용할 것을 권장합니다.
