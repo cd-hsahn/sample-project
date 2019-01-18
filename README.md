@@ -26,9 +26,9 @@ gulp dev
 ```
 
 ## 폴더 구조
-기본적으로 **./project/src** 와 **./project/html**에서만 작업을 진행합니다<br>
+기본적으로 **/project/src** 와 **/project/html**에서만 작업을 진행합니다<br>
 버전관리 또한 두 폴더만 관리합니다.<br>
-병합된 css파일은 **./project/dist/css** 에 저장되며 이는 버전관리 대상이 아닙니다.
+병합된 css파일은 **/project/dist/css** 에 저장되며 이는 버전관리 대상이 아닙니다.
 
 ## Rule
 각 html은 한개의 css만을 import 하여 사용합니다(dist/app.css로 설정한상태)
